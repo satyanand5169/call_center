@@ -1,4 +1,4 @@
-# call_center
+# SQL- call_center
 Designed and implemented a relational database schema to efficiently store
 and query call center data, improving data accessibility and performance. key performance metrics and trends to
 stakeholders.
